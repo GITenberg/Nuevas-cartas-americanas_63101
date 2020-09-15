@@ -1,5 +1,8 @@
 _repo: Nuevas-cartas-americanas_63101
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63101-h/images/cover.jpg
 creator:
   author:
     agent_name: Valera, Juan
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
     - http://es.wikipedia.org/wiki/Juan_Valera
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63101#Nuevas-cartas-americanas
 gutenberg_issued: '2020-09-02'
 gutenberg_type: Text
 identifiers:
