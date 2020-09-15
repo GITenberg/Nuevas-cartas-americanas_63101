@@ -1,0 +1,37 @@
+_repo: Nuevas-cartas-americanas_63101
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valera, Juan
+    aliases:
+    - Galiano, Juan Valera y Alcalá
+    - Galiano, Juan Valera y Alcala
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '4923'
+    url: http://www.gutenberg.org/2009/agents/4923
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
+    - http://es.wikipedia.org/wiki/Juan_Valera
+description: ''
+gutenberg_issued: '2020-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63101'
+  lccn: 01027539
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2201'
+- !lcsh 'South America -- Intellectual life'
+- !lcsh 'Spanish American literature -- History and criticism'
+- !lcsh 'Positivism'
+- GITenberg
+tableOfContents: Nueva religión -- España desde Chile -- Vocabulario Rioplatense razonado
+  -- Novela parisiense mejicana -- Tabaré -- La poesía y la novela en el Ecuador --
+  Tradiciones peruanas -- Un polígrafo argentino -- La religión de la humanidad --
+  Novela-programa.
+title: Nuevas cartas americanas
+url: http://www.gutenberg.org/ebooks/63101
